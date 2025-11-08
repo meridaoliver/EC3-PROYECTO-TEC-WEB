@@ -1,0 +1,11 @@
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\bin\Debug\net9.0\CoworkingReservations.Core.deps.json
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\bin\Debug\net9.0\CoworkingReservations.Core.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\bin\Debug\net9.0\CoworkingReservations.Core.pdb
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.AssemblyInfoInputs.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.AssemblyInfo.cs
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.csproj.CoreCompileInputs.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\refint\CoworkingReservations.Core.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\CoworkingReservations.Core.pdb
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Core\obj\Debug\net9.0\ref\CoworkingReservations.Core.dll

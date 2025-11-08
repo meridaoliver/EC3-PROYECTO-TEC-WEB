@@ -1,0 +1,17 @@
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Infrastructure.deps.json
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Infrastructure.runtimeconfig.json
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Infrastructure.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Infrastructure.pdb
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Core.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\bin\Debug\net9.0\CoworkingReservations.Core.pdb
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.csproj.AssemblyReference.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.AssemblyInfoInputs.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.AssemblyInfo.cs
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.csproj.CoreCompileInputs.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\Coworkin.FDFCC17C.Up2Date
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\refint\CoworkingReservations.Infrastructure.dll
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.pdb
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\CoworkingReservations.Infrastructure.genruntimeconfig.cache
+C:\OM TECWEB1\PROYECTO\CoworkingReservations.Api\CoworkingReservations.Infrastructure\obj\Debug\net9.0\ref\CoworkingReservations.Infrastructure.dll

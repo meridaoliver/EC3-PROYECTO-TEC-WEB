@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\queries\\reservationqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\queries\\reservationqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\repositories\\spacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\repositories\\spacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\enum\\databaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\enum\\databaseprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\entities\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\ispacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\data\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\data\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\persistence\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\persistence\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\coworkingreservations.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\coworkingreservations.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.infrastructure\\coworkingreservations.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{835161AF-AB08-496C-9F59-640054D26B89}|CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj|solutionrelative:coworkingreservations.infrastructure\\coworkingreservations.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\shared\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\dtos\\spacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\dtos\\spacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\dtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\dtos\\reservationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\validators\\reservationcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\validators\\reservationcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BD6465-A0D7-4E30-971F-4E26109AAD53}|CoworkingReservations.Api\\CoworkingReservations.Api.csproj|solutionrelative:coworkingreservations.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|c:\\om tecweb1\\proyecto\\coworkingreservations.api\\coworkingreservations.core\\coworkingreservations.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD2F647B-C8F0-43B0-BC68-F89C7E33FC14}|CoworkingReservations.Core\\CoworkingReservations.Core.csproj|solutionrelative:coworkingreservations.core\\coworkingreservations.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laptop1\\AppData\\Local\\Temp\\jte3yzfj..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:37:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:14:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Data\\DapperContext.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:15:20.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:30:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationQueries.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Queries\\ReservationQueries.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Queries\\ReservationQueries.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Queries\\ReservationQueries.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Queries\\ReservationQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:47:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:20:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Program.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Program.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:43:29.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IDbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IDbConnectionFactory.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IDbConnectionFactory.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IDbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:12:52.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDapperContext.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IDapperContext.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IDapperContext.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IDapperContext.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IDapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:13:27.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Services\\ReservationService.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:58:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:08:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:12:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpaceRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Repositories\\SpaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:22:12.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:14:55.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseProvider.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Enum\\DatabaseProvider.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Enum\\DatabaseProvider.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Enum\\DatabaseProvider.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Enum\\DatabaseProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:12:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:00:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\User.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:59:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISpaceRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\ISpaceRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\ISpaceRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\ISpaceRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\ISpaceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:16:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:54:23.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IReservationService.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:04:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\Space.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Entities\\Space.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\Space.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Entities\\Space.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:24:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Entities\\Reservation.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:41:25.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Data\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Data\\TaskManagerContext.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Data\\TaskManagerContext.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Data\\TaskManagerContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:59:41.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:17:15.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\appsettings.json",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\appsettings.json",
+              "RelativeToolTip": "CoworkingReservations.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T21:43:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CoworkingReservations.Api.csproj",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+              "RelativeToolTip": "CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-15T21:31:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Persistence\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\Persistence\\TaskManagerContext.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\Persistence\\TaskManagerContext.cs",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\Persistence\\TaskManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:26:32.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:16:34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:08:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CoworkingReservations.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+              "RelativeToolTip": "CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T21:07:25.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Shared\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\Shared\\ApiResponse.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\Shared\\ApiResponse.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\Shared\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:18:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:12:07.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SpaceDto.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\SpaceDto.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\DTOs\\SpaceDto.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\SpaceDto.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\DTOs\\SpaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:12:25.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:07:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReservationCreateDto.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\ReservationCreateDto.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\DTOs\\ReservationCreateDto.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\DTOs\\ReservationCreateDto.cs",
+              "RelativeToolTip": "CoworkingReservations.Core\\DTOs\\ReservationCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T18:44:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T21:25:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:16:25.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReservationCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Validators\\ReservationCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "CoworkingReservations.Api\\Validators\\ReservationCreateDtoValidator.cs",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\Validators\\ReservationCreateDtoValidator.cs",
+              "RelativeToolTip": "CoworkingReservations.Api\\Validators\\ReservationCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T22:14:14.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CoworkingReservations.Core.csproj",
+              "DocumentMoniker": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+              "RelativeDocumentMoniker": "CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+              "ToolTip": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+              "RelativeToolTip": "CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T21:07:34.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "jte3yzfj..sql",
+              "DocumentMoniker": "C:\\Users\\laptop1\\AppData\\Local\\Temp\\jte3yzfj..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\laptop1\\AppData\\Local\\Temp\\jte3yzfj..sql",
+              "ToolTip": "C:\\Users\\laptop1\\AppData\\Local\\Temp\\jte3yzfj..sql",
+              "RelativeToolTip": "..\\..\\..\\Users\\laptop1\\AppData\\Local\\Temp\\jte3yzfj..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-10-08T20:39:30.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

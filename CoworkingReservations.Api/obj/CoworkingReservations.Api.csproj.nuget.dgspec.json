@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj": {}
+    "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj": {}
   },
   "projects": {
-    "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj": {
+    "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+        "projectUniqueName": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
         "projectName": "CoworkingReservations.Api",
-        "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
-        "packagesPath": "C:\\Users\\laptop1\\.nuget\\packages\\",
-        "outputPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\obj\\",
+        "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\CoworkingReservations.Api.csproj",
+        "packagesPath": "C:\\Users\\MERIDA\\.nuget\\packages\\",
+        "outputPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laptop1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MERIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
-                "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj"
+              "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
+                "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj"
               },
-              "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj": {
-                "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj"
+              "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj": {
+                "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj"
               }
             }
           }
@@ -70,9 +70,21 @@
               "target": "Package",
               "version": "[11.3.1, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -104,24 +116,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
+    "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+        "projectUniqueName": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
         "projectName": "CoworkingReservations.Core",
-        "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
-        "packagesPath": "C:\\Users\\laptop1\\.nuget\\packages\\",
-        "outputPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\obj\\",
+        "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj",
+        "packagesPath": "C:\\Users\\MERIDA\\.nuget\\packages\\",
+        "outputPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laptop1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MERIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj": {
+    "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+        "projectUniqueName": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
         "projectName": "CoworkingReservations.Infrastructure",
-        "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\laptop1\\.nuget\\packages\\",
-        "outputPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\obj\\",
+        "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\CoworkingReservations.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MERIDA\\.nuget\\packages\\",
+        "outputPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\laptop1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MERIDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -203,8 +215,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
-                "projectPath": "C:\\OM TECWEB1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj"
+              "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj": {
+                "projectPath": "C:\\TEC-WEB-1\\PROYECTO\\CoworkingReservations.Api\\CoworkingReservations.Core\\CoworkingReservations.Core.csproj"
               }
             }
           }
@@ -286,7 +298,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

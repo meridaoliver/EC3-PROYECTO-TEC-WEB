@@ -9,10 +9,17 @@ using CoworkingReservations.Infrastructure.Services;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
+// ... tus otros usings
+using Microsoft.AspNetCore.Authentication.JwtBearer; // <-- Nuevo
+using Microsoft.IdentityModel.Tokens; // <-- Nuevo
+using Microsoft.AspNetCore.Mvc.Versioning; // <-- Nuevo
+using System.Text;
+using CoworkingReservations.Infrastructure.Services; // Para PasswordService
 
 // AJUSTA el using al namespace real de tu TaskManagerContext:
 // según tu doc TaskManagerContext está en "CoworkingReservations.Infrastructure.Repositories"
-// pero lo correcto semánticamente sería "CoworkingReservations.Infrastructure" o ".Persistence".
+// pero lo correcto semánticamente sería "CoworkingReservations.
+Infrastructure" o ".Persistence".
 // Si TaskManagerContext está en Infrastructure.Repositories, usa ese; si lo moviste, cambia aquí.
 //using CoworkingReservations.Infrastructure.Persistence; // <- si TaskManagerContext está aquí
 
@@ -64,6 +71,52 @@ builder.Services.AddScoped<IReservationRepository, ReservationRepository>(); // 
 
 // Service (implementación en Infrastructure)
 builder.Services.AddScoped<IReservationService, ReservationService>();
+
+//--------------------------------
+// 1. User Secrets (Solo en desarrollo) 
+if (builder.Environment.IsDevelopment())
+{
+    builder.Configuration.AddUserSecrets<Program>();
+}
+
+// ... (Configuración de DB, UnitOfWork, Repositorios existentes) ...
+
+// 2. Registrar PasswordService y UserService
+builder.Services.AddSingleton<IPasswordService, PasswordService>();
+builder.Services.AddScoped<IUserService, UserService>();
+
+// 3. Configuración de JWT 
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Authentication:Issuer"],
+        ValidAudience = builder.Configuration["Authentication:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(
+            Encoding.UTF8.GetBytes(builder.Configuration["Authentication:SecretKey"]!))
+    };
+});
+
+// 4. Configuración de Versionamiento [cite: 553]
+builder.Services.AddApiVersioning(options =>
+{
+    options.ReportApiVersions = true;
+    options.AssumeDefaultVersionWhenUnspecified = true;
+    options.DefaultApiVersion = new Microsoft.AspNetCore.Mvc.ApiVersion(1, 0);
+    options.ApiVersionReader = ApiVersionReader.Combine(
+        new UrlSegmentApiVersionReader(),
+        new HeaderApiVersionReader("x-api-version"),
+        new QueryStringApiVersionReader("api-version")
+    );
+});
 
 var app = builder.Build();
 

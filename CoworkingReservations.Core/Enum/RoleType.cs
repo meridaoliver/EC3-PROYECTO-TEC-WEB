@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoworkingReservations.Core.Entities
+namespace CoworkingReservations.Core.Enum
 {
-    public  class BaseEntity
+    public enum RoleType
     {
-        public int Id { get; set; }
+        Administrator,
+        User
     }
 }
